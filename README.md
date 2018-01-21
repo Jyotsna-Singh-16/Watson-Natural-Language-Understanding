@@ -8,3 +8,4 @@
   <li>Head to <a href=http://localhost:3000/>http://localhost:3000</a> on your browser.</li>
   <li>You will have the <b>Watson-Natural-Language-Understanding</b> running on your browser.</li>
 </ol>
+<img src="https://github.com/Jyotsna-Singh-16/Watson-Natural-Language-Understanding/blob/master/watson.png" / >
